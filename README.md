@@ -1,1 +1,2 @@
-# buzzFeed_scaper
+# buzzFeed scaper
+### run script : node index.js
