@@ -1,0 +1,106 @@
+
+//*[@id="mod-subbuzz-photoset-1"]/figure/div[2]/div[2]/p[1]/text()[2]
+
+$X("//*[@id="mod-subbuzz-photoset-1"]/figure/div[2]/div[2]/p[1]/text()[2]")
+
+
+#mod-subbuzz-photoset-10 > figure > div.flex.xs-flex-column > div.subbuzz__description > p:nth-child(2) > a
+<a data-affiliate="true" data-skimlinks-tracking="6091251" data-vars-affiliate="Amazon" 
+data-vars-href="https://www.amazon.com/gp/customer-reviews/R1T3RNEU199LF6?tag=bfnusrat-20&amp;ascsubtag=6091251%2C1%2C29%2Cmobile_web%2C0%2C0%2C17361737" data-vars-keywords="cleaning" data-vars-link-id="17361737" data-vars-name="Amazon Customer" 
+data-vars-price.currency="USD" data-vars-price.value="16.89" data-vars-retailers="Amazon" data-vars-subbuzz-id="128093129" 
+data-vars-subbuzz-pos="1" data-vars-text="weekly shower cleaner" 
+href="https://www.amazon.com/gp/customer-reviews/R1T3RNEU199LF6?tag=bfnusrat-20&amp;ascsubtag=6091251%2C1%2C29%2Cd%2C0%2C0%2C0%2C776%3A1%3B962%3A1%3B901%3A2%3B900%3A2%3B974%3A3%3B994%3A3%3B1064%3A2%2C17361737%2C0%2C0" rel="sponsored" target="_blank"
+ class="js-skimlink-subtag-modified" data-bonsai-initialized="" data-uri="2e5c571dfb8a13bec741141654ebd068">Amazon Customer</a>
+
+<a data-affiliate="true" data-skimlinks-tracking="6091251"
+ data-vars-affiliate="Amazon" 
+ data-vars-asin="B011HAWZ2W" 
+data-vars-href="https://www.amazon.com/dp/B011HAWZ2W?tag=bfnusrat-20&amp;ascsubtag=6091251%2C13%2C29%2Cmobile_web%2C0%2C0%2C17361735" 
+data-vars-keywords="cleaning" data-vars-link-id="17361735" data-vars-name="$9.99"
+ data-vars-price.currency="USD" data-vars-price.value="9.99" 
+data-vars-retailers="Amazon" data-vars-subbuzz-id="128093130" data-vars-subbuzz-pos="13" 
+data-vars-text="" href="https://www.amazon.com/dp/B011HAWZ2W?tag=bfnusrat-20&amp;ascsubtag=6091251%2C13%2C29%2Cd%2C0%2C0%2C0%2C776%3A1%3B962%3A1%3B901%3A2%3B900%3A2%3B974%3A3%3B994%3A3%3B1064%3A2%2C17361735%2C0%2C0" 
+rel="sponsored" target="_blank" 
+class="js-skimlink-subtag-modified" data-bonsai-initialized="" data-uri="246af6056ee3b674ca2839c0b97f3078">$9.99</a>
+
+
+
+
+<a data-affiliate="true" data-skimlinks-tracking="6091251" data-vars-affiliate="Amazon"
+ data-vars-asin="none"
+ data-vars-href="https://www.amazon.com/gp/customer-reviews/R1NND7FK4ZJLZI?tag=bfnusrat-20&amp;ascsubtag=6091251%2C3%2C29%2Cmobile_web%2C0%2C0%2C17361749" data-vars-keywords="cleaning" data-vars-link-id="17361749" data-vars-name="J Rivera" 
+ data-vars-price.currency="USD" data-vars-price.value="29.99" data-vars-retailers="Amazon" data-vars-subbuzz-id="128093167" 
+ data-vars-subbuzz-pos="3" data-vars-text="" 
+ href="https://www.amazon.com/gp/customer-reviews/R1NND7FK4ZJLZI?tag=bfnusrat-20&amp;ascsubtag=6091251%2C3%2C29%2Cd%2C0%2C0%2C0%2C776%3A1%3B962%3A1%3B901%3A2%3B900%3A2%3B974%3A3%3B994%3A3%3B1064%3A2%2C17361749%2C0%2C0" 
+ rel="sponsored" target="_blank"
+ class="js-skimlink-subtag-modified" data-bonsai-initialized="" data-uri="a2654fc1fd13f5c87b8ab5c1a09e54ca">J Rivera</a>
+
+
+<a data-affiliate="true" data-skimlinks-tracking="6091251" 
+data-vars-affiliate="imp.i358707.net" data-vars-campaign="songdanceSultana11-3-21-6091251" 
+data-vars-href="https://imp.i358707.net/c/468058/844691/11802?subId1=songdanceSultana11-3-21-6091251&amp;u=https%3A%2F%2Fwww.publicgoods.com%2Fproducts%2Fscrubber-sponge" 
+data-vars-keywords="cleaning" data-vars-link-id="17363730" data-vars-name="$4.75" data-vars-price.currency="USD" 
+data-vars-price.value="79.0" data-vars-redirecturl="https://www.publicgoods.com/products/scrubber-sponge" 
+data-vars-retailers="publicgoods" data-vars-subbuzz-id="128096265" data-vars-subbuzz-pos="20"
+ data-vars-text="plant-based walnut scrubber sponge" 
+ href="https://imp.i358707.net/c/468058/844691/11802?subId1=songdanceSultana11-3-21-6091251&amp;u=https%3A%2F%2Fwww.publicgoods.com%2Fproducts%2Fscrubber-sponge&amp;subId3=xid:fr1647903707136jdf" 
+rel="sponsored" target="_blank" class="js-skimlink-subtag-modified" data-bonsai-initialized="" 
+data-ml-dynamic="true" data-ml-dynamic-type="sl" 
+data-orig-url="https://imp.i358707.net/c/468058/844691/11802?subId1=songdanceSultana11-3-21-6091251&amp;u=https%3A%2F%2Fwww.publicgoods.com%2Fproducts%2Fscrubber-sponge" 
+data-ml-id="15" data-ml="true" data-xid="fr1647903707136jdf" data-uri="c178aaf7b5da0d3c3636f269250f3a03">$4.75</a>
+
+
+//p/a[@data-vars-price.value and @data-vars-asin]
+
+//p/a[@data-vars-price.value]
+
+$x(//*[@id="mod-subbuzz-photoset-1"]/figure/div[2]/div[2]/p[2]/a)
+
+
+//div[contains(@class,"buzz--list")]
+
+
+//[@data-module="subbuzz-photoset"]/figure/div[2]/div[2]/p[2]/a
+
+
+//div[@data-module="subbuzz-photoset"]/figure/div[2]/div[2]/p[2]/a   -- write
+
+//*[@id="mod-subbuzz-image-7"]/figure/div[2]/div[2]/p[4]/a
+
+subbuzz subbuzz-image
+
+
+$x('//div[contains(@class,"subbuzz__description")]/p[2]/a')[9].getAttribute("data-vars-price.value") --right 
+
+$x('//div[contains(@class,"subbuzz subbuzz-image")]/figure/div[2]/div[2]/p[4]/a');
+
+
+$x('//*[@id="mod-subbuzz-photoset-9"]/figure/div[2]/div[2]/p[3]/a[2]')
+
+
+//*[@id="mod-subbuzz-image-1"]/figure/div[2]/div[2]/p[2]/a
+
+Hi Dheeraj, Do you have skype?
+
+We have constructed a simple test, to check the basic knowledge of our Puppeteer freelance developers.
+If you pass this test we can go on to complicated projects.
+We will pay 15$ for every developer who passes this test so this test is also the first job.
+
+The task is pretty simple for a skilled developer.
+
+1.
+The bot should navigate to "https://www.buzzfeed.com/nusrat21/things-so-amazing-youll-break-into-song-dance".
+The page has a list of "Sub buzzes" as classes, each sub buzz has a title, images, text, and "Add to wish list" button.
+2.
+The bot should wait for the page to load, and then click on the "Add to wish list" button, of all the sub buzzes which has a price higher than 25$.
+
+* The Bot must not manipulate the DOM, e.g, it should not remove, append, or modify elements or nodes on the DOM.
+
+* Make sure not to use the click inside an evaluate function(in a browser context), you can only click on buttons by using page.click() or elementHandle.click(). this means that this is type of click is not allowed:
+
+await page.evaluate(()=>{
+document.querySelector(selector).click() // NOT ALLOWED
+})
+
+This is a benchmark test to see how familiar are you with the Puppeteer API.
+Let me know if you want to try out this job..
